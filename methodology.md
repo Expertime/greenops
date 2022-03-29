@@ -3,6 +3,8 @@ layout: page
 title: Méthodologie GreenOps
 ---
 
+{:toc}
+
 ## La méthodologie GreenOps
 
 ### Les fondements
@@ -116,3 +118,50 @@ Et il ne s’agit pas non plus d’un carnet de recettes exclusives, et il n’y
 
 Ainsi, la méthodologie GreenOps n’a pas pour but de valider ou de bloquer des ambitions business. Il s’agit plutôt d’accompagner les décideurs vers des architectures et usages plus respectueux de l’environnement, et par conséquent participer à l’effort de réduction de l’empreinte écologique de l’entreprise. Que ce soit en correction, en optimisation ou en conception de nouvelles solutions dans une logique qui doit alors s’étendre jusqu’aux expertises du développement applicatif (DevGreenOps).
 C’est pourquoi, cela ne permet pas, non plus, d’obtenir l’équivalent CO2 (t eq CO2) généré par les infrastructures cloud exploitées. En effet, les données généralement transmises par les fournisseurs de services cloud, portent au niveau des matériel physiques mis en œuvre, et il demeure extrêmement complexe et hasardeux, à ce stade, de le mettre en équation avec les usages qui en sont fait par les entreprises clientes. Il ne s’agit donc pas d’un calcul qui viserait ensuite à « racheter » un équivalent CO2 auprès des organismes agréés. Il s’agit, bien au contraire, de donner les clés pour réduire cette production à sa source, en consommant au mieux les services disponibles.
+
+## Un cadre méthodologique complémentaire au DevOps et au FinOps
+
+Le GreenOps ne fonctionne pas en opposition aux autre cadres méthodologiques désormais adoptés par toute entreprise mature face au cloud.
+
+On pourra ainsi affirmer qu’il s’agit d’un complément « naturel » aux méthodologies DevOps et FinOps. En effet, le cadre méthodologique en est largement inspiré, il en reprend les bons principes de structure et d’application.
+
+Très logiquement, plus les interactions entre Dev et Ops sont maîtrisées et fluides, plus le GreenOps sera facile à mettre en œuvre. Plus précisement, les principes d’IaC (infrastructure as code) et les mécanismes d’intégration continue et de développement continu (CI/CD), sont évidemment de vrais facilitateurs à la mise en œuvre des recommandations et à leur bonne maîtrise dans le temps.
+
+Aussi, de ce constat que la démarche doit non seulement permettre d’optimiser l’architecture et son usage, mais aussi pouvoir s’étendre aux questions amonts, en termes de conception logicielle, il devient alors incontournable de ne surtout pas dissocier les enjeux techniques ops des exigences applicatives et fonctionnelles. C’est pour cela que le DevOps prend tout son sens en rapport direct avec l’ambition GreenOps.
+
+Il est indéniable, par retour d’expérience, qu’une démarche DevOps maîtrisée participe très directement à l’agilité et à la performance d’une organisation IT. Chez l’ensemble des clients pour lesquels nous avons pu mettre en œuvre ces principes et ces outils, nous avons constaté de meilleurs résultats, ainsi qu’une meilleure satisfaction des équipes, avec une culture qui s’inscrit naturellement dans la durée. Nous souhaitons évidemment continuer à contribuer et à amplifier cette amélioration de la « qualité », grâce à la démarche GreenOps, comme un moyen pour chaque acteur d’exécuter sa mission, dans le meilleur respect possible, et en pleine conscience, des enjeux environnementaux.
+
+Sur l’enjeu financier, concernant l’optimisation et la maîtrise des coûts d’exploitation du cloud, nous avons également eu l’occasion de mettre en place des démarches FinOps dans différents contextes et à différents niveaux de maturité d’organisation. 
+
+Ces deux approches, GreenOps et FinOps, par leur objectifs partagés d’optimisation des moyens et des usages cloud, sont évidemment comparables. Mais elles n’en demeurent pas moins différentes.
+
+Si l’on considère que dans la logique de facturation à la consommation, en réduisant la facture, on réduit l’utilisation, et donc la consommation de ressources et d’énergie, on pourra y trouver une vertu commune. Mais le GreenOps ne s’occupe pas de la facturation des services cloud . 
+-	Le GreenOps recommande l’usage de ressources plus couteuses, si leur empreinte écologique est moindre
+-	Le GreenOps recommande l’usage de localisations au plus proche des utilisateurs finaux. Alors que le FinOps recommandera les régions avec les tarifs les plus bas
+-	Le GreenOps met en avant l’économie d’énergie dans la conception des nouvelles architectures, et non pas l’optimisation financière comme le FinOps
+En conclusion sur cette vision des enjeux économiques, liés à l’exploitation sans cesse croissante des moyens cloud, on pourrait extrapoler l’impact de chaque démarche sur des fenêtres temporelles et spatiales différentes. Là où le FinOps permet une maîtrise, sur le court et moyen terme, et sur un périmètre circonscrit à ses besoins en moyens informatiques cloud pour créer de la valeur, le GreenOps s’applique sur une vision à plus long terme, comme facteur constitutif d’une démarche beaucoup plus globale, à l’échelle de l’entreprise en tant qu’organisation responsable et active face à son impact environnement.
+Le GreenOps s’intégre donc parfaitement avec le DevOps et le FinOps. Trois démarches complémentaires, propices à la création de synergies vertueuses pour une performance responsable et maîtrisée au sein des organisations. 
+
+### Le GreenOps et le GreenIT
+
+Comme évoqué précédemment, le GreenOps est une démarche intéressante et pragmatique pour bien démarrer sa politique GreenIT. En effet, il existe aujourd’hui encore trop peu d’informations, de ressources utiles et fiables et peu d’outils. 
+Le scope du GreenIT étant très large, depuis les postes de travail jusqu’aux développements logiciels, il est compliqué de bénéficier de retours d’expérience exploitables, tant l’application de la politique varie d’une entreprise à une autres, d’un contexte à l’autre.
+
+C’est pourquoi le GreenOps, en adressant le scope plus précis des architectures cloud de l’entreprise, simplifie la démarche, tout en faisant un focus sur un élément fondamental et de plus en plus prépondérant de l’IT d’entreprise. Il propose une démarche complète permettant d’appliquer une politique de GreenIT. Non seulement parce qu’il propose un cadre de réflexion et d’actions « techniques », mais aussi parce qu’il s’agit d’une méthodologie qui embarque son propre référentiel de gouvernance, clarifiant ainsi la mise en œuvre de KPI pertinents et la comitologie associée (instances de suivi, cérémonies, formats de reporting, matrice de responsabilités …). 
+
+De plus, comme nous l’avons exposé plus avant, en étant open-source et adaptable au contexte, le GreenOps ne s’impose pas comme une doctrine qu’il serait parfois compliqué, voire impossible, à appliquer sans contraintes opérationnelles ou même politiques. Ainsi, à son crédit, le GreenOps se veut intrinsèquement fédérateur des différentes entités, compétences et responsabilités qui interagissent au sein d’une IT d’entreprise, depuis le spécialiste technique jusqu’au manager ; Qu’il soit membre d’une DSI ou bien en charge d’appliquer une démarche responsable à l’ensemble de l’entreprise (Responsable RSE, Chief Impact Officer…).
+
+En conclusion, le GreenOps complète ou initie l’engagement GreenIT : 
+Comme point de départ, il permet de structurer la démarche en apportant un référentiel clair et un outil simple d’usage que les équipes pourront s’approprier et faire évoluer. Il constitue un levier d’adoption fort et permet d’accélérer concrètement la démarche. Il peut être utilisé comme une première brique fondatrice d’une démarche GreenIT dans l’entreprise.
+
+Comme complément à d’autres initiatives et travaux GreenIT, grâce à son framework, il vient en renfort des bonnes pratiques et apporte des moyens accessibles aux équipe pour ancrer la démarche de responsabilité. Avec l’objectif d’une véritable culture d’entreprise, partagée et maîtrisée à tous les niveaux, dont l’IT, en tant qu’activité majeure des enjeux présents et à venir, pour toute entreprise consciente et soucieuse de son empreinte écologique.
+
+Le GreenOps est une méthodologie permettant d’appliquer des optimisations durables sur les infrastructures cloud, ce qui le place totalement dans une démarche GreenIT globale pour l’entreprise. Un moyen simple et efficace d’amorcer ou de renforcer les actions GreenIT au sein des DSI.
+
+### Le GreenOps face au GreenWashing
+
+Le GreenOps permet de réduire l’empreinte écologique de son infrastructure cloud par la rationalisation et l’optimisation. Autrement dit il permet de mieux consommer et de moins consommer. Il ne s’agit donc absolument pas d’un calcul d’empreinte carbone qui permettrait de justifier le rachat de T eq CO2 pour atteindre la neutralité.
+
+Tout au contraire, il s’agit bien d’agir à la source et de limiter autant que possible l’impact. Que ce soit en conception, associé à une démarche de CAF (Cloud Adoption Framework) ou en optimisation dans l’exploitation des ressources cloud souscrites par une entreprise.
+
+Enfin, comme cela a déjà été mentionné, c’est un formalisme méthodologique qui permet d’inscrire, de facto, une démarche et une culture, pour agir avec plus de responsabilité, en se posant les bonnes questions. Finalement le meilleur moyen pour s’assurer d’une prise de conscience collective et durable, par rapport au sujet qui va redéfinir inévitablement les principes et les ambitions de toutes les organisations.
