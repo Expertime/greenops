@@ -3,6 +3,9 @@ layout: page
 title: GreenOps by Expertime
 ---
 
+* TOC
+{:toc}
+
 ## Edito
 
 « Éteins la lumière ! ». J’ai entendu cette phrase un nombre de fois incalculable dans la bouche de mes parents. Le réflexe d’une époque où l’électricité ne coûtait pourtant pas si cher à produire, et malgré les crises pétrolières, les ressources étaient abondantes, et l’énergie « propre » par défaut. Les températures du printemps étaient douces, et l’air avait un parfum de fraicheur.
