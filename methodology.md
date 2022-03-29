@@ -3,6 +3,7 @@ layout: page
 title: Méthodologie GreenOps
 ---
 
+* TOC
 {:toc}
 
 ## La méthodologie GreenOps
