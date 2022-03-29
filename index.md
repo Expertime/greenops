@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GreenOps by Expertime
+title: Home
 ---
 
 * TOC
