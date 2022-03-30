@@ -3,6 +3,6 @@ title: GreenOps
 description: Méthodologie GreenOps
 header_pages:
   - index.html
-  - methodology.md
+  - docs/introduction.md
   # - documentation.md
 markdown: kramdown

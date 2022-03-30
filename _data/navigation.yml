@@ -1,7 +1,7 @@
-- name: Introduction
-  link: /greenops/introduction.html
+- name: Documentation
+  link: /greenops/docs/documentation.html
 - name: Méthodologie GreenOps
-  link: /greenops/methodology.html
+  link: /greenops/docs/methodology.html
 - name: GreenOps for Infrastructure
   link: /greenops/docs/infra.html
 - name: GreenOps for Software Development

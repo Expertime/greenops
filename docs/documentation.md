@@ -1,6 +1,6 @@
 ---
 layout: documentation
-title: Introduction
+title: Documentation
 ---
 
 * TOC
