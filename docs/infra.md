@@ -1,1 +1,4 @@
-## Infra
+---
+layout: documentation
+title: GreenOps for Infrastructure
+---
