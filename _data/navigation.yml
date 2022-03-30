@@ -1,0 +1,8 @@
+- name: GreenOps for Infra
+  link: /docs/infra.html
+- name: GreenOps for Software Development
+  link: /docs/dev.html
+- name: GreenOps for Data Engineering and AI
+  link: /docs/data.html
+- name: GreenOps for Usage and Modern Workplace
+  link: /docs/usage-mw.html
