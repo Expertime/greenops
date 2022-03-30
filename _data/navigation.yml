@@ -1,6 +1,6 @@
 - name: Méthodologie GreenOps
   link: /greenops/methodology.html
-- name: GreenOps for Infra
+- name: GreenOps for Infrastructure
   link: /greenops/docs/infra.html
 - name: GreenOps for Software Development
   link: /greenops/docs/dev.html
