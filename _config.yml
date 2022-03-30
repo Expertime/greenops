@@ -4,5 +4,5 @@ description: Méthodologie GreenOps
 header_pages:
   - index.md
   - methodology.md
-  - documentation.md
+  # - documentation.md
 markdown: kramdown
