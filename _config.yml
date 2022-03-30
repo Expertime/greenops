@@ -2,7 +2,7 @@ theme: minima
 title: GreenOps
 description: Méthodologie GreenOps
 header_pages:
-  - index.md
+  - index.html
   - methodology.md
   # - documentation.md
 markdown: kramdown
