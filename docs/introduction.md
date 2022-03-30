@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: documentation
+title: Introduction
 ---
 
 * TOC
