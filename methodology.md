@@ -3,13 +3,6 @@ layout: documentation
 title: Méthodologie GreenOps
 ---
 
-<nav>
-* TOC
-{:toc}
-</nav>
-
-<div>
-
 ## La méthodologie GreenOps
 
 ### Les fondements
@@ -170,5 +163,3 @@ Le GreenOps permet de réduire l’empreinte écologique de son infrastructure c
 Tout au contraire, il s’agit bien d’agir à la source et de limiter autant que possible l’impact. Que ce soit en conception, associé à une démarche de CAF (Cloud Adoption Framework) ou en optimisation dans l’exploitation des ressources cloud souscrites par une entreprise.
 
 Enfin, comme cela a déjà été mentionné, c’est un formalisme méthodologique qui permet d’inscrire, de facto, une démarche et une culture, pour agir avec plus de responsabilité, en se posant les bonnes questions. Finalement le meilleur moyen pour s’assurer d’une prise de conscience collective et durable, par rapport au sujet qui va redéfinir inévitablement les principes et les ambitions de toutes les organisations.
-
-</div>
