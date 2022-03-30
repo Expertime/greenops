@@ -3,6 +3,9 @@ layout: documentation
 title: Méthodologie GreenOps
 ---
 
+* TOC
+{:toc}
+
 ## La méthodologie GreenOps
 
 ### Les fondements
