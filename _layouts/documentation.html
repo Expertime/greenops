@@ -7,14 +7,14 @@
 
     {%- include header.html -%}
 
-    <nav>
-        Nav
-    </nav>
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <main class="page-content with-sidebar" aria-label="Content">
+        <nav>
+            Nav
+        </nav>
+        <div class="wrapper">
+            {{ content }}
+        </div>
     </main>
 
     {%- include footer.html -%}
