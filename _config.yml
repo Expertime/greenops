@@ -1,8 +1,3 @@
-theme: jekyll-theme-minimal
-minima:
-  skin: dark
-header_pages:
-  - index.md
-  - methodology.md
-  - documentation.md
-markdown: kramdown
+theme: minimal
+title: GreenOps
+description: Méthodologie GreenOps
