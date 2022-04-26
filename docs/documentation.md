@@ -41,7 +41,7 @@ C’est justement en tentant de répondre à cette question que nous avons fait 
 
 Alors, comment comprendre quelles actions sont possibles et utiles face à un enjeu si global ? Comment dépasser le biais cognitif habituel de pseudo-inefficacité, face à l’immensité et à l’opacité des caractéristiques environnementales d’écosystèmes cloud, par essence diffus et distants et sur lesquels nous n’avons aucune maîtrise directe ?
 
-A chaque problème, une solution. Chez Expertime, le cloud est au cœur de nos offres et de nos expertises, et nous avons donc décidé de mettre au point la méthodologie GreenOps. Un référentiel et des moyens pratiques pour permettre à toutes les structures informatiques d’amorcer leur initiative GreenIT, en se reposant sur un cadre technique établi, ainsi que des outils d’audit innovants et utiles à l’action concrète.
+A chaque problème, une solution. Vous trouverez donc ici référentiel et des moyens pratiques pour permettre à toutes les structures informatiques d’amorcer leur initiative GreenIT, en se reposant sur un cadre technique établi, ainsi que des outils d’audit innovants et utiles à l’action concrète.
 
 En résumé, une vision pragmatique, une trajectoire précise, des outils, et de l’accompagnement pour pouvoir répondre à la complexité de l’enjeu particulier d’une DSI, d’un service IT, d’un expert technique ou même, pour les organisations les plus matures, d’un **Chief Impact Officer**.
 
