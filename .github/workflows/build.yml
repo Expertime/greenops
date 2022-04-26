@@ -28,6 +28,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Updating docs from master
         run: |
+          git fetch --all
           git checkout gh-pages
           git checkout main -- docs
           git add docs
